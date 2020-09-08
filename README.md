@@ -20,5 +20,4 @@ Fine. But really, numbers mean *nothing*, it's the quality that matters.
 
 You can ask [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public.
 
-Or, email me. Logged-in users will see my email address on the left (top if mobile).
-
+Or, see [here](https://austinhuang.me/#hey-you-look-cool) for more methods to reach me.
