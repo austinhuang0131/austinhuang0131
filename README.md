@@ -1,9 +1,17 @@
+## Notice: I am on hiatus
+
+The times are weird. College isn't working out.
+
+My internet activities are currently reduced. I will still check emails and reply to them, but that's it.
+
+---
+
 This is a summary of my coding activity. For more info, visit [AustinHuang.me](https://austinhuang.me).
 
 ## Whatcha doin'?
 
 * I mostly manage stuff rather than code stuff directly. I also try to improve open source tools that I personally use.
-  * The only projects that I'm actively coding in is [Barinsta](https://github.com/austinhuang0131/barinsta) (ex-InstaGrabber). ([STM Shuttle Tracker](https://stm.austinhuang.me) is currently on hold as I contribute to [Transit Tracker Extra](https://github.com/transittracker/extras) instead.)
+  * The only projects that I'm actively coding in is [Barinsta](https://github.com/austinhuang0131/barinsta) (ex-InstaGrabber). ([STM Shuttle Tracker](https://stm.austinhuang.me) is currently on hold as I contribute to [Transit Tracker Extras](https://github.com/transittracker/extras) instead.)
   * I have founded ![Discord](https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white)-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
     * I am no longer as involved in Discord-related projects *as before*, since I have moved onto ![Matrix](https://img.shields.io/badge/-Matrix-000000?logo=matrix&logoColor=white) (`@austin:privacytools.io`). You can see my rationale [here](https://austinhuang.me/discord-issues).
 * I code in ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) and ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white).
