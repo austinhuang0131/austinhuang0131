@@ -1,7 +1,5 @@
 ## Notice: I am on hiatus
 
-The times are weird. College isn't working out.
-
 My internet activities are currently reduced. I will still check emails and reply to them, but that's it.
 
 ---
