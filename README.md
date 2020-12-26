@@ -1,9 +1,3 @@
-## Notice: I am on hiatus
-
-My internet activities are currently reduced. I will still check emails and reply to them, but that's it.
-
----
-
 This is a summary of my coding activity. For more info, visit [AustinHuang.me](https://austinhuang.me).
 
 ## Whatcha doin'?
