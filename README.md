@@ -10,16 +10,8 @@ This is a summary of my coding activity. For more info, visit [AustinHuang.me](h
   * Java is used for coding ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) applications, and I use ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) for them.
   * For other stuff, I use ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?logo=visual-studio-code&logoColor=white).
 
-## Where's the mandatory readme stats?
-
-Fine. But really, numbers mean *nothing*, it's the quality that matters.
-
-![Austin's github stats](https://github-readme-stats.vercel.app/api?username=austinhuang0131&theme=dark&show_icons=true)
+[![metrics](https://github.com/austinhuang0131/austinhuang0131/blob/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=austinhuang0131&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Ay, ima talk to ya.
-
-You can ask [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public.
-
-Or, see [here](https://austinhuang.me/#hey-you-look-cool) for more methods to reach me.
+For questions, you can ask [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public. See [here](https://austinhuang.me/#hey-you-look-cool) for more methods to reach me.
