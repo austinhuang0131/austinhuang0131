@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -27,7 +27,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 16, 16 + 6%
           # habits
           plugin_habits: yes
           plugin_habits_from: 1000       # Use 200 events to compute habits
