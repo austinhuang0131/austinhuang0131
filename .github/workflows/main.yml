@@ -15,11 +15,12 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           user: austinhuang0131
+          use_prebuilt_image: yes
           template: classic
           config_timezone: America/Montreal
           plugin_lines: yes
           plugin_stargazers: yes
-          config_padding: 0%
+          config_padding: 16, 16
           # base
           base: header, activity, community, repositories, metadata
           repositories_forks: no
@@ -27,7 +28,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_threshold: 16, 16 + 6%
+          plugin_languages_threshold: 0%
           # habits
           plugin_habits: yes
           plugin_habits_from: 1000       # Use 200 events to compute habits
