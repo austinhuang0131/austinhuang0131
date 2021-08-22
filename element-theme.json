@@ -6,7 +6,7 @@
         "primary-color": "#9F8652",
         "warning-color": "#f9c003",
         "sidebar-color": "#000000",
-        "roomlist-background-color": "#191919",
+        "roomlist-background-color": "#000000",
         "roomlist-text-color": "#bada55",
         "roomlist-text-secondary-color": "#e5e5e5",
         "roomlist-highlights-color": "#323232",
@@ -15,6 +15,9 @@
         "timeline-text-color": "#e5e5e5",
         "timeline-text-secondary-color": "#b2b2b2",
         "timeline-highlights-color": "#212121",
+        "timeline-bubble-background-incoming": "#191919",
+        "timeline-bubble-background-outgoing": "#bada55",
+        "timeline-bubble-background-selected": "#4cc355",
         "reaction-row-button-selected-bg-color": "#bada55"
     }
 }
