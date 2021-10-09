@@ -9,8 +9,6 @@ You can ask me anything [in this repository's issue section](https://github.com/
 * For projects, I code in ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) or ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white). I can also code in ![Python](https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white). I'm currently learning ![Kotlin](https://img.shields.io/badge/-Kotlin-766DB2?logo=kotlin&logoColor=white).
   * I use ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) for coding ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) applications. For others, I use ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?logo=visual-studio-code&logoColor=white).
 
-Mastodon: <a rel="me" href="https://ieji.de/@austin">@austin:ieji.de</a>
-
 ![metrics](https://github.com/austinhuang0131/austinhuang0131/blob/master/github-metrics.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=austinhuang0131&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
