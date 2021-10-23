@@ -3,7 +3,7 @@ This is a summary of my coding activity. For more info, visit [AustinHuang.me](h
 You can ask me anything [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public. See [here](https://austinhuang.me/#hey-you-look-cool) for more methods to reach me.
 
 * I mostly manage stuff rather than code stuff directly. I also try to improve open source tools that I personally use.
-  * [(redacted).](https://github.com/austinhuang0131/austinhuang0131/issues/2)
+  * [(Redacted).](https://austinhuang.me/barinsta)
   * I have founded ![Discord](https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white)-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
     * I am no longer as involved in Discord-related projects *as before*. You can see my rationale [here](https://austinhuang.me/discord-issues).
 * For projects, I code in ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) or ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white). I can also code in ![Python](https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white). I'm currently learning ![Kotlin](https://img.shields.io/badge/-Kotlin-766DB2?logo=kotlin&logoColor=white).
