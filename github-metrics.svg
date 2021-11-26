@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>/* SVG global context */
+    <style data-optimizable="true">/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
@@ -2703,7 +2703,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2021, 21:26:02 (timezone America/Montreal) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 25 Nov 2021, 23:13:49 (timezone America/Montreal) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
