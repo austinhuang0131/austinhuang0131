@@ -1,13 +1,12 @@
-This is a summary of my coding activity. For more info, visit [AustinHuang.me](https://austinhuang.me).
+This is a summary of my coding activity. For more info, visit [AustinHuang.me](https://austinhuang.me). For my self-hosted services, visit [bus-hit.me](https://bus-hit.me).
 
 You can ask me anything [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public. See [here](https://austinhuang.me/#hey-you-look-cool) for more methods to reach me.
 
-* I mostly manage stuff rather than code stuff directly. I also try to improve open source tools that I personally use.
-  * [(Redacted).](https://austinhuang.me/barinsta)
+* I mostly manage stuff rather than code stuff directly.
+  * I made Barinsta. [You know how that ended up.](https://austinhuang.me/barinsta)
   * I have founded ![Discord](https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white)-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
     * I am no longer as involved in Discord-related projects *as before*. You can see my rationale [here](https://austinhuang.me/discord-issues).
-* For projects, I code in ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) or ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white). I can also code in ![Python](https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white). I'm currently learning ![Kotlin](https://img.shields.io/badge/-Kotlin-766DB2?logo=kotlin&logoColor=white).
-  * I use ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) for coding ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) applications. For others, I use ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?logo=visual-studio-code&logoColor=white).
+* I also throw in a few PRs for projects that I personally use. Check out [my Codeberg profile](https://codeberg.org/austinhuang.me) as well!
 
 ![metrics](https://github.com/austinhuang0131/austinhuang0131/blob/master/github-metrics.svg)
 
