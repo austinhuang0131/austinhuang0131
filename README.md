@@ -4,8 +4,7 @@ You can ask me anything [in this repository's issue section](https://github.com/
 
 * I mostly manage stuff rather than code stuff directly.
   * I made Barinsta. [You know how that ended up.](https://austinhuang.me/barinsta)
-  * I have founded ![Discord](https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white)-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
-    * I am no longer as involved in Discord-related projects *as before*. You can see my rationale [here](https://austinhuang.me/discord-issues).
+  * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin), though I am now a supporter of [Matrix](https://matrix.org).
 * I also throw in a few PRs for projects that I personally use. Check out [my Codeberg profile](https://codeberg.org/austinhuang.me) as well!
 
 ![metrics](https://github.com/austinhuang0131/austinhuang0131/blob/master/github-metrics.svg)
