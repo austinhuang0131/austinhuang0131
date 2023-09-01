@@ -1,12 +1,18 @@
-This is a summary of my coding activity. For more info, visit [AustinHuang.me](https://austinhuang.me). For my self-hosted services, visit [bus-hit.me](https://bus-hit.me).
-
-You can ask me anything [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public. See [here](https://austinhuang.me/#hey-you-look-cool) for more methods to reach me.
+This is a summary of my coding activity on GitHub. See also [my Codeberg profile](https://codeberg.org/austinhuang). For more info, visit [AustinHuang.me](https://austinhuang.me).
 
 * I mostly manage stuff rather than code stuff directly.
   * I made Barinsta. [You know how that ended up.](https://austinhuang.me/barinsta)
-  * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin), though I am now a supporter of [Matrix](https://matrix.org).
-* I also throw in a few PRs for projects that I personally use. Check out [my Codeberg profile](https://codeberg.org/austinhuang.me) as well!
-
+  * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
+  * I am now a supporter of [Matrix](https://matrix.org), for which I manage [JoinMatrix.org](https://joinmatrix.org) ([repo](https://github.com/austinhuang0131/joinmatrix)).
+* I also throw in a few PRs for projects that I personally use. The most notable PRs (in approximately descending order of complexity) are:
+  * Oracle database support for PrivateBin: https://github.com/PrivateBin/PrivateBin/pull/871 and https://github.com/PrivateBin/PrivateBin/pull/872
+  * ActivityPub bridge for RSS-Bridge: https://github.com/RSS-Bridge/rss-bridge/pull/3133
+  * [Various PRs](https://github.com/rugk/mastodon-simplified-federation/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Mastodon – Simplified Federation!](https://github.com/rugk/mastodon-simplified-federation)
+  * New login flow for PixEz (old version): https://github.com/ultranity/Pix-EzViewer/pull/51
+  * Scraper improvements for a mutual aid site during Shanghai lockdown: https://github.com/MakersMark3333/shanghai_daohouer_archive/pull/3
+ 
+You can ask me anything [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public. See [here](https://austinhuang.me/#contact-me) for more methods to reach me.
+ 
 ![metrics](https://github.com/austinhuang0131/austinhuang0131/blob/master/github-metrics.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=austinhuang0131&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
