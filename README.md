@@ -9,7 +9,7 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
   * ActivityPub bridge for RSS-Bridge: https://github.com/RSS-Bridge/rss-bridge/pull/3133
   * [Various PRs](https://github.com/rugk/mastodon-simplified-federation/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Mastodon – Simplified Federation!](https://github.com/rugk/mastodon-simplified-federation)
   * New login flow for PixEz (old version): https://github.com/ultranity/Pix-EzViewer/pull/51
-  * Scraper improvements for a mutual aid site during Shanghai lockdown: https://github.com/MakersMark3333/shanghai_daohouer_archive/pull/3
+  * Scraper improvements for archiving a mutual aid site during Shanghai lockdown: https://github.com/MakersMark3333/shanghai_daohouer_archive/pull/3
  
 You can ask me anything [in this repository's issue section](https://github.com/austinhuang0131/austinhuang0131/issues) if the question is suitable for public. See [here](https://austinhuang.me/#contact-me) for more methods to reach me.
  
