@@ -4,10 +4,11 @@ This is a summary of my coding activity on GitHub. See also [my Codeberg profile
   * I made Barinsta. [You know how that ended up.](https://austinhuang.me/barinsta)
   * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
   * I am now a supporter of [Matrix](https://matrix.org), for which I manage [JoinMatrix.org](https://joinmatrix.org) ([repo](https://github.com/austinhuang0131/joinmatrix)).
-* I also throw in a few PRs for projects that I personally use. The most notable PRs (in approximately descending order of complexity) are:
+* I also throw in a few PRs for projects that I personally use. The most notable PRs (in approximately descending order of significance) are:
   * Oracle database support for PrivateBin: https://github.com/PrivateBin/PrivateBin/pull/871 and https://github.com/PrivateBin/PrivateBin/pull/872
   * ActivityPub bridge for RSS-Bridge: https://github.com/RSS-Bridge/rss-bridge/pull/3133
   * [Various PRs](https://github.com/rugk/mastodon-simplified-federation/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Mastodon – Simplified Federation!](https://github.com/rugk/mastodon-simplified-federation)
+  * SearXNG: Jisho.org engine https://github.com/searxng/searxng/pull/1030, plus a bugfix https://github.com/searxng/searxng/pull/1023
   * New login flow for PixEz (old version): https://github.com/ultranity/Pix-EzViewer/pull/51
   * Scraper improvements for archiving a mutual aid site during Shanghai lockdown: https://github.com/MakersMark3333/shanghai_daohouer_archive/pull/3
  
