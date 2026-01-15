@@ -1,7 +1,7 @@
 This is a summary of my coding activity on GitHub. See also [my Codeberg profile](https://codeberg.org/austinhuang). For more info, visit [AustinHuang.me](https://austinhuang.me).
 
 * I mostly manage stuff rather than code stuff directly.
-  * I made Barinsta. [You know how that ended up.](https://austinhuang.me/barinsta)
+  * I made Barinsta. [You know how that ended up.](https://github.com/austinhuang0131/austinhuang0131/issues/2)
   * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
   * I am now a supporter of [Matrix](https://matrix.org), for which I manage [JoinMatrix.org](https://joinmatrix.org) ([repo](https://github.com/austinhuang0131/joinmatrix)).
 * I also throw in a few PRs for projects that I personally use. The most notable PRs (in approximately descending order of significance) are:
