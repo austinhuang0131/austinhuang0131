@@ -1,8 +1,10 @@
-This is a summary of my coding activity on GitHub. See also [my Codeberg profile](https://codeberg.org/austinhuang). For more info, visit [AustinHuang.me](https://austinhuang.me).
+This is a summary of my coding activity on GitHub. For more info, visit [AustinHuang.me](https://austinhuang.me).
 
+* Most of the current activity is schoolwork and minor consultation with others. Most of my personal projects are now at [Codeberg](https://codeberg.org/austinhuang).
 * I mostly manage stuff rather than code stuff directly.
   * I made Barinsta. [You know how that ended up.](https://github.com/austinhuang0131/austinhuang0131/issues/2)
-  * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin).
+  * I have founded Discord-related projects like [DTel](https://github.com/dtel-hq/dtel) and [Discoin](https://github.com/discoin), though neither of which are active at the moment.
+  * Pre-pandemic I wrote a [bus tracker](https://github.com/austinhuang0131/stm-shuttle-tracker) that tracked [STM school buses](https://www.stm.info/en/info/networks/bus-network-and-schedules-enlightened/bus-services-schools) (which were not published back then).
   * I am now a supporter of [Matrix](https://matrix.org), for which I manage [JoinMatrix.org](https://joinmatrix.org) ([repo](https://github.com/austinhuang0131/joinmatrix)).
 * I also throw in a few PRs for projects that I personally use. The most notable PRs (in approximately descending order of significance) are:
   * [Various PRs](https://github.com/steviek/PathWidgetXplat/pulls?q=is%3Apr+author%3Aaustinhuang0131) for [Departure Widget for PATH](https://github.com/steviek/PathWidgetXplat)
